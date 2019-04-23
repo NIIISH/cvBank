@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/cvBank/static/media/Image 3@2x.178cff05.png"
   },
   {
-    "revision": "62994c4a675b88f6dabd",
+    "revision": "62fc352eb63ec8c425f8",
     "url": "/cvBank/static/css/main.2a592d57.chunk.css"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/cvBank/static/media/Image 3.01926a3c.png"
   },
   {
-    "revision": "62994c4a675b88f6dabd",
-    "url": "/cvBank/static/js/main.6f64377f.chunk.js"
+    "revision": "62fc352eb63ec8c425f8",
+    "url": "/cvBank/static/js/main.c1fb1239.chunk.js"
   },
   {
     "revision": "af3e5c2cd5f3a0f7da5e7508fbf983e3",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/cvBank/static/media/bg3.ac5d817f.svg"
   },
   {
-    "revision": "b17d863b8eb72533518336bf32be35da",
+    "revision": "7172dd902f5be30dda4266c7af996c47",
     "url": "/cvBank/index.html"
   }
 ];
