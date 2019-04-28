@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/cvBank/static/media/blur-overlay-png-5.34aa1555.png"
   },
   {
-    "revision": "540e39357d6cfc3a40b8",
+    "revision": "e036dc560f9723adb9ea",
     "url": "/cvBank/static/css/main.f5b0d960.chunk.css"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/cvBank/static/media/Intersection 1@2x.af3e5c2c.png"
   },
   {
-    "revision": "540e39357d6cfc3a40b8",
-    "url": "/cvBank/static/js/main.802ec2d4.chunk.js"
+    "revision": "e036dc560f9723adb9ea",
+    "url": "/cvBank/static/js/main.48adc0b5.chunk.js"
   },
   {
     "revision": "6abfaf5e8ba5dbb29624cfb1e67a792d",
@@ -72,16 +72,16 @@ self.__precacheManifest = [
     "url": "/cvBank/static/media/slick.ced611da.eot"
   },
   {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/cvBank/static/media/slick.b7c9e1e4.woff"
-  },
-  {
     "revision": "d41f55a78e6f49a5512878df1737e58a",
     "url": "/cvBank/static/media/slick.d41f55a7.ttf"
   },
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/cvBank/static/media/slick.f97e3bbf.svg"
+  },
+  {
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/cvBank/static/media/slick.b7c9e1e4.woff"
   },
   {
     "revision": "9b747117c551c6462f1d4ba1f330b60c",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/cvBank/static/css/2.e1c118cc.chunk.css"
   },
   {
-    "revision": "4616d32761be68ff6fe576e19b7232bf",
+    "revision": "9b04037f23d78866d54be85a28c0bf21",
     "url": "/cvBank/index.html"
   }
 ];
